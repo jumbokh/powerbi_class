@@ -13,4 +13,4 @@
 #### 至下載頁面
 ![下載按鈕](images/download.JPG)
 #### 查看下載或語言選項
-![選擇中文語言](images/check.JPG)
+![選擇中文語言](images/check_x64.JPG)
